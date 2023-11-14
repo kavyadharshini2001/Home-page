@@ -1,0 +1,184 @@
+.texteddit {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: rgba(226, 226, 22, 0.834);
+}
+
+.slideedit{
+    height: 100%;
+}
+
+.btnstyle {
+    background-color: rgb(62, 159, 127);
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    
+   
+    padding: 10px;
+}
+
+.wordedit {
+    letter-spacing: 6px;
+    color: rgb(0, 107, 128);
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.wordedit2 {
+    letter-spacing: 4px;
+    color: black;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 0 50px;
+}
+
+.wordedit3 {
+    word-spacing: 4px;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    text-align: left;
+    padding: 20px 30px;
+}
+
+.wordedit4 {
+    font-size: 25px;
+    color: black;
+    text-align: center;
+
+}
+
+.wordedit5 {
+    font-size: 40px;
+    color: black;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+.imgedit {
+    height: 100%;
+    width: 100%;
+}
+
+.wordedit6 {
+    text-align: center;
+    color: rgb(95, 87, 87);
+
+}
+
+.parent-img {
+    position: relative;
+}
+
+.child-img-edit {
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(0, 0, 0, 0.6);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+    top: 0;
+    color: white;
+    visibility: hidden;
+    padding: 10px;
+
+}
+
+.parent-img:hover .child-img-edit {
+    visibility: visible;
+}
+
+.wordedit7 {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(20, 171, 166);
+}
+
+.child-text{
+    position: absolute;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    top: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.wordedit8{
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-weight: 400;
+    color:rgb(20, 171, 166);
+    margin-top: 200px;
+}
+.wordedit9{
+    font-size: 40px;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+}
+.flow-img{
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: none;
+    border:20px;
+    margin-left:50px 10px ;
+}
+.navbaredit{
+    color: rgb(0, 255, 229);
+    font-weight: 400;
+}
+.navedit{
+    background-image: linear-gradient(to right top, #06bac8, #00ada0, #009e72, #388d40, #304402);
+    position: fixed !important;
+    top:0;
+    width: 100%;
+    overflow: visible;
+    z-index: 4;
+}
+
+.wordedit10{
+    font-size: 30px;
+    font-weight: 400;
+    color: black;
+    padding: 50px;
+    margin: 0px 50px
+}
+.wordedit11{
+    text-align: center;
+    color:rgb(5, 6, 6);
+    font-size: 25px;
+}
+.wordedit12{
+    text-align: center;
+    color:rgb(7, 111, 111);
+    font-size: 20px;
+    word-spacing: 5px;
+    font-weight: 500;
+}
+.wordedit13{
+    font-size: 25px;
+    color: black;
+    padding: 15px;
+}
+.iconedit{
+    padding: 10px;
+}
+.buttonstyle{
+    background-color: rgb(62, 159, 127);
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+   
+    padding: 5px;
+    margin: 10px 10px;
+}
